@@ -4,7 +4,7 @@
 
 ## Growth hypothesis
 
-FinWise's biggest growth challenge is that users may not be experiencing enough product value to convert into paying customers. Users may be exploring different features without a clear path to value, while collaboration could help expand product reach and demonstrate its value across teams.
+FinWise's biggest growth problem is Users are not seeing the value the product is offering to finally become a paid user CTR (1.99%), because Users may struggle to understand where to start and how FinWise can help their business. Without a clear path to value, they may not fully experience the product's benefits during the reverse trial..
 
 _Working notes: I think FinWise’s biggest problem is Activation - Users do not see the value of the product as only 2% of customers convert from trial to paid. Evidence: Users do not see the value of the product as only 2% of customers convert from trial to paid.
 As most of the marketing budget is going to Acquisition the understanding of why they are not getting value is crucial. Against the data: Massive drop-off from Trial to Paid (98.01%)
@@ -16,7 +16,7 @@ _____
 
 ## The bet
 
-Make a share option with teamates to collaborate and share the value they get with the product
+Encourages users to share financial models, discover insights from teammates to collaborate and share the value they get with the product
 
 **Not doing:** 1. Acquisition experiments: Deprioritize experiments focused on increasing Visit-to-Trial conversion until we establish a clear and consistent path for users to experience the product's core value.
 
