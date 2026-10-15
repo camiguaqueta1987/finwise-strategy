@@ -18,8 +18,9 @@ _____
 
 Make a share option with teamates to collaborate and share the value they get with the product
 
-**Not doing:** 1. Acquisition experiments from the Acquisition> Trial until we normalized how users can get value first. 
-2. New revenue stream experiments
+**Not doing:** 1. Acquisition experiments: Deprioritize experiments focused on increasing Visit-to-Trial conversion until we establish a clear and consistent path for users to experience the product's core value.
+
+2. New revenue stream experiments: Deprioritize exploring additional revenue streams while focusing on improving activation and Trial-to-Paid conversion.
 
 _____
 
