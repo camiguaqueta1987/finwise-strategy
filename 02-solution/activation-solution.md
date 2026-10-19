@@ -4,18 +4,20 @@
 
 ## Aha moment
 
-_The exact moment FinWise becomes "my money, finally clear."_
+Connecting a live bank feed: Seeing hundreds of financial transactions automatically appear, get organized, and categorized within seconds.
 
 _____
 
 ## Onboarding prototype
 
-_Screenshots or a shareable link to the flow that gets users to the Aha faster._
+[Prototype link](https://trueframe-ui-capture.lovable.app/)
+
+![Onboarding prototype screenshot](onboarding-prototype.png)
 
 _____
 
 ## Why this activates
 
-_The activation logic: what changes, and why it converts trial users._
+connecting a live bank feed as FinWise's hypothesized Aha Moment because it delivers the product's core value: eliminating manual financial data entry. More importantly, it establishes an ongoing financial workflow through automatically synchronized transactions, giving users a reason to return. To validate this as an activation signal, I would compare retention and Trial-to-Paid conversion between users who successfully import transactions and those who don't.
 
 _____
