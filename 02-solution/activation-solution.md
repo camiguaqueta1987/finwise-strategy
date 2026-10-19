@@ -16,6 +16,12 @@ _____
 
 _____
 
+## Onboarding PRD
+
+[Onboarding PRD (PDF)](onboarding-prd.pdf): the full spec behind the prototype, covering the user journey, screens, Aha moment trigger, analytics events and acceptance criteria.
+
+_____
+
 ## Why this activates
 
 connecting a live bank feed as FinWise's hypothesized Aha Moment because it delivers the product's core value: eliminating manual financial data entry. More importantly, it establishes an ongoing financial workflow through automatically synchronized transactions, giving users a reason to return. To validate this as an activation signal, I would compare retention and Trial-to-Paid conversion between users who successfully import transactions and those who don't. Link: [Prototype link](https://trueframe-ui-capture.lovable.app/)
