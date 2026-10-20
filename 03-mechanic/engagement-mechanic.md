@@ -31,4 +31,6 @@ _____
 
 ![Wireframe screenshot](wireframe.png)
 
+![Invoicing milestone reward](milestone-reward.png)
+
 _____
