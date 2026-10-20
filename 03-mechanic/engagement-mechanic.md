@@ -7,7 +7,7 @@
 **Mechanic:** Progress Bar
 
 - **Trigger:** When the user reaches their usual invoicing period, FinWise displays a gentle reminder based on their previous activity to encourage repeat usage.
-- **Action:** Creates 5+ invoices within the first 30 days
+- **Action:** User creates 5+ invoices within the first 30 days
 - **Reward:** A consistency milestone, a small celebration, and a personalized weekly summary showing invoices created and total amount invoiced.
 - **Investment:** User saves customer information and schedules their next recurring invoice.
 
@@ -15,7 +15,7 @@ _____
 
 ## Rationale
 
-For FinWise, users might not know how to create invoices or realize how much time they could save by automating them. So, this is also a educational trigger so the action can be a recurring task if they know how to use it. 
+For FinWise, users might not know how to create invoices or realize how much time they could save by automating them. So, this is also an educational trigger so the action can be a recurring task if they know how to use it. 
 
 I chose a progress bar tied to creating five invoices within the first 30 days because this behavior has been identified as predictive of retention.
 
