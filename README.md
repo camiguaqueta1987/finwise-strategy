@@ -23,11 +23,11 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 ## The Story
 
-**Growth thesis:** If trial users reach value fast and experience it with their team, more of them will pay, so FinWise should get users to a live bank feed early, build habits and collaboration around it, and charge once it becomes part of how the team works.
+**Growth thesis:** Get trial users to value fast, let them share it with their team, and charge once FinWise becomes a team habit.
 
-- **One friction.** The data didn't back my first instinct. Import usage moved between 30% and 45% while Trial-to-Paid stayed flat at about 2%, with almost no correlation between them. I had to accept that more imports alone won't fix conversion, and that users need to understand what the data does for their business.
-- **One Aha.** Trial-to-Paid sat at about 2% for 13 straight months. That told me this wasn't an acquisition or seasonality problem but an activation one. From there, defining the Aha moment as a live bank feed made the rest of the strategy fall into place.
-- **Takeaways.** Trial-to-Paid is too slow to steer by, so experiments need leading indicators like import completion and teammate sharing. Every test needs a guardrail so a win in one metric doesn't hide a loss in another. And the method should fit the constraint. With little time and no room to lose conversions, a multi-armed bandit made more sense than a classic A/B test.
+- **One friction.** Import usage moved a lot, but conversion stayed flat at 2%. More imports alone won't fix conversion.
+- **One Aha.** 13 months stuck at 2% meant an activation problem, not an acquisition one.
+- **Takeaways.** Steer by leading indicators, always set a guardrail, and pick the test method that fits the constraint.
 
 ---
 
