@@ -5,9 +5,6 @@
 **Camila Guaqueta** · October 2026
 
 This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README ties them together.
-
-**How to use this template:** click **Use this template → Create a new repository**, name it `finwise-strategy`, and commit each module's deliverable to its folder during the labs.
-
 ---
 
 ## Deliverables at a glance
