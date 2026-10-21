@@ -2,11 +2,13 @@
 
 > _(one-line growth thesis)_
 
-_Your name · Camila Guaqueta · date_
+**Camila Guaqueta** · October 2026
 
-This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the source for the pitch you generate with the **Final Project Deliverables Prompt Generator**.
+This repo is my final project for the **Product Experimentation Certification**: a product-led growth strategy for FinWise, a financial management platform for small businesses that runs on a reverse trial.
 
-**How to use this template:** click **Use this template → Create a new repository**, name it `finwise-strategy`, and commit each module's deliverable to its folder during the labs.
+FinWise converts only 1.99% of trial users to paid. My strategy treats this as an activation problem: users explore features without reaching real value. Across six modules, I define a collaboration-driven growth bet, design an onboarding flow that gets users to their first Aha moment (a live bank feed), build an invoicing habit loop for retention, choose the signals to steer by, design a multi-armed bandit experiment to validate it, and recommend a pricing model.
+
+Each module has its own folder. This README is **The Story** that ties them together.
 
 ---
 
