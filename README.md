@@ -5,6 +5,7 @@
 **Camila Guaqueta** · October 2026
 
 This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README ties them together.
+
 ---
 
 ## Deliverables at a glance
