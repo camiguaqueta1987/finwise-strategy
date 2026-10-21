@@ -23,11 +23,11 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 ## The Story
 
-**Growth thesis:** A collaboration-driven experience that gets trial users to a live bank feed fast will help them see FinWise's value together and lift Trial-to-Paid conversion from 1.99%.
+**Growth thesis:** If trial users reach value fast and experience it with their team, more of them will pay.
 
-- **One friction.** Import usage swung between 30% and 45%, but Trial-to-Paid stayed at ~2%, with almost no correlation (−0.05).
-- **One Aha.** Defining the live bank feed as the Aha moment connected the bet, the onboarding and the signals.
-- **Takeaways.** Track import completion and teammate sharing as leading indicators, and use a multi-armed bandit to learn fast without losing conversions.
+- **One friction.** The data didn't back my first instinct, since import usage moved between 30% and 45% while Trial-to-Paid stayed flat at 2%.
+- **One Aha.** Trial-to-Paid stuck at 2% for 13 months told me this was an activation problem, not an acquisition one.
+- **Takeaways.** With little time and no room to lose conversions, a multi-armed bandit made more sense than a classic A/B test.
 
 ---
 
