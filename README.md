@@ -25,7 +25,7 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 **Growth thesis:** Get trial users to value fast, let them share it with their team, and charge once FinWise becomes a team habit.
 
-- **One friction.** Import usage moved a lot, but conversion stayed flat at 2%. More imports alone won't fix conversion.
+- **One friction.** Import usage moved a lot while conversion stayed flat at 2%.
 - **One Aha.** 13 months stuck at 2% meant an activation problem, not an acquisition one.
 - **Takeaways.** Steer by leading indicators, always set a guardrail, and pick the test method that fits the constraint.
 
