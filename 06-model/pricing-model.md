@@ -20,6 +20,6 @@ _____
 
 ## Model signal
 
-Bank connection completion rate, invoice creation completion rate, automation completion rate and dashboard views. Our priority is to drive activation by allowing users to experience FinWise's full value during the reverse trial. After the trial, essential features and historical transactions remain free, while premium capabilities such as automatic bank synchronization, advanced reporting, and collaboration require a paid subscription.
+Bank connection completion rate, invoice creation completion rate, automation completion rate and dashboard views. Our priority is to drive activation by allowing users to experience FinWise's full value during the reverse trial. After the trial, essential features, automatic bank synchronization and historical transactions remain free, so users keep reaching the Aha moment. Collaboration with teammates and advanced automation, such as recurring invoices and advanced reporting, require a paid subscription.
 
 _____
