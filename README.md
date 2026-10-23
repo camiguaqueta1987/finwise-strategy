@@ -1,6 +1,6 @@
 # FinWise, A Product-Led Growth Strategy
 
-> A product-led growth strategy to lift FinWise's 1.99% Trial-to-Paid conversion.
+> A collaboration-driven, product-led growth strategy to lift FinWise's 1.99% Trial-to-Paid conversion.
 
 **Camila Guaqueta** · October 2026
 
