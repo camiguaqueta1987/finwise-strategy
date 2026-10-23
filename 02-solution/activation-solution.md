@@ -24,6 +24,6 @@ _____
 
 ## Why this activates
 
-connecting a live bank feed as FinWise's hypothesized Aha Moment because it delivers the product's core value: eliminating manual financial data entry. More importantly, it establishes an ongoing financial workflow through automatically synchronized transactions, giving users a reason to return. To validate this as an activation signal, I would compare retention and Trial-to-Paid conversion between users who successfully import transactions and those who don't. Link: [Prototype link](https://trueframe-ui-capture.lovable.app/)
+connecting a live bank feed as FinWise's hypothesized Aha Moment because it delivers the product's core value: eliminating manual financial data entry. More importantly, it establishes an ongoing financial workflow through automatically synchronized transactions, giving users a reason to return. Once their numbers are in, users can invite their accountant or a teammate to review transactions and leave comments, so the value reaches the whole team instead of staying with one person. To validate this as an activation signal, I would compare retention and Trial-to-Paid conversion between users who successfully import transactions and those who don't. Link: [Prototype link](https://trueframe-ui-capture.lovable.app/)
 
 _____
