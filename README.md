@@ -23,7 +23,7 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 ## The Story
 
-**Growth thesis:** If trial users reach value fast and experience it with their team, more of them will pay.
+**Growth thesis:** FinWise's 1.99% Trial-to-Paid conversion is an activation problem, so if trial users reach value fast through a live bank feed and collaborate on it with their teammates, more of them will see FinWise's value and pay.
 
 - **One friction.** The data didn't back my first instinct, since import usage moved between 30% and 45% while Trial-to-Paid stayed flat at 2%.
 - **One Aha.** Trial-to-Paid stuck at 2% for 13 months told me this was an activation problem, not an acquisition one.
