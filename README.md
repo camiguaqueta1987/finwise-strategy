@@ -6,6 +6,8 @@
 
 This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README ties them together.
 
+**[▶ View the project slides](https://camiguaqueta1987.github.io/finwise-strategy/FinWise_Growth_Project_Complete.html)**
+
 ---
 
 ## Deliverables at a glance
